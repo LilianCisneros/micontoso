@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 
 namespace ContosoUniversity.Models
-{
+{//encontré error
     public class Course
     {
         [DatabaseGenerated(DatabaseGeneratedOption.None)]
